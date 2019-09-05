@@ -93,7 +93,9 @@
  - Alter xbee COM port to correct path
  - Alter baud_rate to desired value
  - Alter logfile in to desired logfile path
-
+#### LED Lights
+ - To Run the new scripts with the integrated LED LIGHTS:
+ - Connect the lights to GPIO pins 17 and 18
 ### To Run on Bootup
  - If done with sudo, adding the following line to your `/etc/rc.local` will work
  ```
